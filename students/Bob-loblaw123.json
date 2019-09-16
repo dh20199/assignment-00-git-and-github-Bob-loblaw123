@@ -1,0 +1,14 @@
+{
+  "firstName": "Erin",
+  "lastName": "",
+  "nickName": "I don't believe in nicknames",
+  "privateName": false,
+  "picture": "images/photo3.jpeg",
+  "privatePicture": false,
+  "email": "e.socholotiuk@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "Bob-loblaw123",
+  "privateGithub": false,
+  "superpower" : "overspicing food",
+  "academicinterests": "human osteology, bog mummies, history, recluses"
+}
